@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there 👋 I'm Simone Romiti</h1>
 <h2 align="center">I am a Jr. Full Stack Web Developer from Tuscany :computer::wink:</h2>
 
-<h2 align="center">What I use: :point_down:</h2>
+<h3 align="center">What I use: :point_down:</h3>
 
 <p align=center>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
@@ -22,6 +22,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
+hr
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact" alt="SimoneRomiti" /></p>
 
