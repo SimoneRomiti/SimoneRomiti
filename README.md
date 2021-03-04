@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋 I'm Simone Romiti</h1>
-<h2 align="center">I am a Jr. Full Stack Web Developer from Tuscany :computer: :simple_smile:</h2>
+<h2 align="center">I am a Jr. Full Stack Web Developer from Tuscany :computer: :smiley:</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact" alt="SimoneRomiti" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimoneRomiti&theme=radical&show_icons=true&icon_color=CFF601"/></p>
