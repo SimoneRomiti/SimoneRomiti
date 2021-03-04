@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Simone Romiti
 I am a Jr. Full Stack Web Developer
-https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact" alt="SimoneRomiti" /></p>
 
 <!--
 **SimoneRomiti/SimoneRomiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
