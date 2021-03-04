@@ -24,7 +24,7 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact" alt="SimoneRomiti" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneRomiti&theme=radical&show_icons=true&locale=en&layout=compact&theme=radical" alt="SimoneRomiti" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimoneRomiti&theme=radical&show_icons=true&icon_color=CFF601"/></p>
 
